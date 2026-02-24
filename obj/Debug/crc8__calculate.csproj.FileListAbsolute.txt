@@ -1,0 +1,13 @@
+C:\Users\pxi1085\source\repos\crc8__calculate\obj\Debug\crc8__calculate.csproj.AssemblyReference.cache
+C:\Users\pxi1085\source\repos\crc8__calculate\obj\Debug\crc8__calculate.Form1.resources
+C:\Users\pxi1085\source\repos\crc8__calculate\obj\Debug\crc8__calculate.csproj.GenerateResource.cache
+C:\Users\pxi1085\source\repos\crc8__calculate\obj\Debug\crc8__calculate.csproj.CoreCompileInputs.cache
+C:\Users\pxi1085\source\repos\crc8__calculate\bin\Debug\crc8__calculate.exe.config
+C:\Users\pxi1085\source\repos\crc8__calculate\bin\Debug\crc8__calculate.exe
+C:\Users\pxi1085\source\repos\crc8__calculate\bin\Debug\crc8__calculate.pdb
+C:\Users\pxi1085\source\repos\crc8__calculate\obj\Debug\crc8__calculate.exe
+C:\Users\pxi1085\source\repos\crc8__calculate\obj\Debug\crc8__calculate.pdb
+C:\Users\pxi1085\source\repos\crc8__calculate\bin\Debug\crc8__calculate.exe.manifest
+C:\Users\pxi1085\source\repos\crc8__calculate\bin\Debug\crc8__calculate.application
+C:\Users\pxi1085\source\repos\crc8__calculate\obj\Debug\crc8__calculate.exe.manifest
+C:\Users\pxi1085\source\repos\crc8__calculate\obj\Debug\crc8__calculate.application
